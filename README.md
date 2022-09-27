@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corteisjr" alt="corteisjr" /></a> </p>
 
 - 🔭 I’m currently working on **backend projects**
+- 🧑‍💼 Working remotely as a Software Developer at [https://refera.com.br/](https://refera.com.br/)
 
 - 👨‍💻 All of my projects are available at [https://corteisjunior.netlify.app/](https://corteisjunior.netlify.app/)
 
