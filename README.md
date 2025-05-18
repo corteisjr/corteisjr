@@ -25,7 +25,7 @@
 
 ---
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rnr7s55omnshvav4cgfmkwqfd4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rnr7s55omnshvav4cgfmkwqfd4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rnr7s55omnshvav4cgfmkwqfd4&redirect=true)
 
 
 ### 📫 Vamos trocar uma ideia?
@@ -35,9 +35,6 @@
 - Email: corteisjunior@gmail.com
 
 ---
-
-![Corteis GitHub Stats](https://github-readme-stats.vercel.app/api?username=corteisjr&show_icons=true&theme=dracula)
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=corteisjr&show_icons=true&theme=dracula" alt="Corteis GitHub Stats" />
