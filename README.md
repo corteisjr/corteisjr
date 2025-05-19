@@ -20,8 +20,8 @@
 ### 🌱 Atualmente aprendendo
 
 - 🔍 Arquitetura escalável com Django REST
-- ⚙️ Automatizações e produtividade com Python
-- 📲 React Native para apps móveis
+- ⚙️ MicroServiços
+- 📲 Kotlin para apps móveis
 
 ---
 
